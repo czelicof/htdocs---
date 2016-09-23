@@ -1,4 +1,4 @@
-﻿asparagus
+asparagus
 apples
 avacado
 alfalfa
@@ -16,3 +16,4 @@ Avocado roll
 anchovy -Rebecca
 hello i am another apple -yukako
 Hello Carolyn, this is Jie.
+juice
